@@ -3,11 +3,7 @@
 <!--                 Customized for MADHANRAJ S                 -->
 <!-- ========================================================== -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Madhanraj%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20En
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=230&section=header&text=Madhanraj%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Madhanraj Header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Madhanraj%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Madhanraj Header" />
 <!-- Dynamic Typing Animation -->
 <a href="https://github.com/Smadhanraj2005">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there!+Welcome+to+my+official+GitHub+profile.;Python+Developer+%7C+Data+Analyst;AI+%26+Machine+Learning+Researcher;Crafting+predictive+models+%26+full-stack+intelligence;Let's+build+something+impactful+together!" alt="Typing SVG" />
