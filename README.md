@@ -4,7 +4,7 @@
 <!-- ========================================================== -->
 
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Madhanraj%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20En
 <!-- Animated Header Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=230&section=header&text=Madhanraj%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Madhanraj Header" />
 
