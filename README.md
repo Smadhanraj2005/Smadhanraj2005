@@ -20,7 +20,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Smadhanraj2005&label=Profile%20Views&color=00d2ff&style=for-the-badge)](https://github.com/Smadhanraj2005)
 [![GitHub Followers](https://img.shields.io/github/followers/Smadhanraj2005?label=Followers&style=for-the-badge&color=24292e&logo=github)](https://github.com/Smadhanraj2005?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanrajs-40523b328)
-[![Portfolio](https://smadhanraj2005.github.io/Myportfolio/#projects)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smadhanraj2005.github.io/Myportfolio)
 [![Gmail](https://img.shields.io/badge/Email_Me-smadhanmad2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smadhanmad2005@gmail.com)
 
 <br>
