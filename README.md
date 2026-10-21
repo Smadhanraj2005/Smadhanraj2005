@@ -3,10 +3,15 @@
 <!--                 Customized for MADHANRAJ S                 -->
 <!-- ========================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Madhanraj%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Madhanraj Header" />
-<!-- Dynamic Typing Animation -->
+<div align="center">
+
+# 👨‍💻 Hi there, I'm <span style="color:#00d2ff">Madhanraj S</span> 👋
+
+### 🚀 Python Developer | 📊 Data Analyst | 🤖 AI & ML Enthusiast
+
+<!-- Dynamic Typing Animation with calibrated width (Never cuts off) -->
 <a href="https://github.com/Smadhanraj2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there!+Welcome+to+my+official+GitHub+profile.;Python+Developer+%7C+Data+Analyst;AI+%26+Machine+Learning+Researcher;Crafting+predictive+models+%26+full-stack+intelligence;Let's+build+something+impactful+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Python+Developer+%7C+Data+Analyst;AI+%26+Machine+Learning+Researcher;Full-Stack+Web+Developer;Building+AI-driven+innovations;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -27,7 +32,7 @@
   <b><a href="#-featured-projects">Featured Projects</a></b> •
   <b><a href="#-experience--leadership">Experience</a></b> •
   <b><a href="#-verified-certifications">Certifications</a></b> •
-  <b><a href="#-github-analytics--trophies">GitHub Analytics</a></b> •
+  <b><a href="#-github-analytics">GitHub Analytics</a></b> •
   <b><a href="#-connect--collaborate">Contact</a></b>
 </p>
 
@@ -36,8 +41,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-<div align="center">
 
 ```python
 class Developer:
@@ -56,8 +59,6 @@ class Developer:
             "passion": "Bridging sensor data, machine learning, and human health insights"
         }
 ```
-
-</div>
 
 - 🔭 **What I'm building right now:** A *Multimodal Sensor Fusion System* combining physiological sensor data with dietary ML risk prediction to deliver real-time nutritional diagnostics.
 - 🧠 **Areas of Expertise:** Data Cleaning & Preprocessing (EDA), Predictive Analytics, Machine Learning (Random Forest, Bayesian Inference), Explainable AI (SHAP), and Full-Stack APIs.
@@ -207,18 +208,6 @@ class Developer:
 
 ### 💼 Experience & Leadership Journey
 
-```mermaid
-journey
-    title Professional Internship & Leadership Timeline
-    section 2024 - 2025
-      Data Analyst & Squad Leader (VGLUG Foundation): 5: Python, Pandas, Matplotlib, Metabase
-    section 2025 - 2026
-      Web Content & SEO Intern (GAOTek Inc.): 5: Best Intern of the Month, 30+ Webpages
-    section 2026
-      Artificial Intelligence Intern (Infosys Springboard): 5: AI Pipelines, ML Concepts
-      Data Analyst (Edunet Foundation): 5: Data Cleaning, Preprocessing, EDA
-```
-
 <table>
   <thead>
     <tr>
@@ -282,14 +271,9 @@ journey
 
 ---
 
-### 📊 GitHub Analytics & Trophies
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- Trophies Banner -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smadhanraj2005&theme=onedark&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" alt="Madhanraj Trophies" />
-</p>
 
 <!-- Stats Cards Grid -->
 <table>
@@ -311,11 +295,6 @@ journey
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smadhanraj2005&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- Daily Dev Joke / Quote Card -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Dev Joke" />
 </p>
 
 </div>
@@ -346,7 +325,7 @@ journey
 
 <br><br>
 
-<!-- Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=110&section=footer" width="100%" alt="Madhanraj Footer" />
+---
+⭐ *From [Madhanraj S](https://github.com/Smadhanraj2005) with passion for data and intelligent systems.*
 
 </div>
